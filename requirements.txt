@@ -11,7 +11,7 @@ Django==1.11
 enum34==1.1.6
 falcon==1.0.0
 flake8==3.4.1
-Flask==0.11.1
+Flask==1.0
 future==0.16.0
 gapic-google-cloud-vision-v1==0.90.3
 google-api-python-client==1.6.2
