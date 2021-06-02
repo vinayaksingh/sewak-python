@@ -64,7 +64,7 @@ sqlacodegen==1.1.6
 SQLAlchemy==1.0.14
 twilio==6.7.1
 uritemplate==3.0.0
-urllib3==1.21.1
+urllib3==1.26.5
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
 Werkzeug==0.11.10
