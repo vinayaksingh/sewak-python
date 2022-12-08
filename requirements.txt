@@ -3,7 +3,7 @@ appdirs==1.4.3
 bottle==0.12.9
 cachetools==2.0.0
 CD==1.1.0
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.3
 click==6.6
 dill==0.2.6
